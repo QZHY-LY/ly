@@ -19,16 +19,16 @@ data class Student(
     val gender:String
 )
 val teachers = listOf(
-    Teacher(1,"abc ","English",40,"女"),
-    Teacher(2,"B","MATH",29,"男"),
-    Teacher(1,"c ","English",44,"女"),
-    Teacher(2,"d","MATH",28,"男")
+    Teacher(1,"abc ","English",44,"女"),
+    Teacher(2,"B","MATH",25,"女"),
+    Teacher(1,"c ","English",37,"女"),
+    Teacher(2,"d","English",30,"男")
 )
 val students = listOf(
-    Student(4, "Alice ", "English", 18, "女"),
-    Student(5, "ai ", "English", 17, "女"),
-    Student(6, "cc ", "English", 19, "女"),
-    Student(7, "ff ", "English", 18, "女")
+    Student(4, "Alice ", "English", 17, "女"),
+    Student(5, "ai ", "MATH", 19, "男"),
+    Student(6, "cc ", "MATHh", 18, "男"),
+    Student(7, "ff ", "English", 17, "女")
 )
 
 @Composable
