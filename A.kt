@@ -7,7 +7,6 @@ import androidx.compose.material3.Text
 import androidx.compose.ui.res.painterResource
 import androidx.navigation.NavHostController
 
-
 @Composable
 fun Apage(navController:NavHostController){
     Column {
