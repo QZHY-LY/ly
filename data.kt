@@ -27,7 +27,7 @@ val teachers = listOf(
 val students = listOf(
     Student(4, "Alice ", "English", 17, "女"),
     Student(5, "ai ", "MATH", 19, "男"),
-    Student(6, "cc ", "MATHh", 18, "男"),
+    Student(6, "cc ", "MATH", 18, "男"),
     Student(7, "ff ", "English", 17, "女")
 )
 
