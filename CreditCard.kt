@@ -1,4 +1,4 @@
-package com.example.chh
+package com.example.ly
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.fillMaxWidth
